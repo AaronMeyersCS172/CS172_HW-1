@@ -13,6 +13,15 @@
 #include "Function Prototype Storage.h"
 using namespace std;
 
+//PT
+//  EX01_01: 14/20
+//  EX01_02: 20/20
+//  EX01_03: 20/20
+//  EX01_04: 16/20
+//  EX01_05: 20/20
+//-----------------
+//  TOTAL: 90/100
+
 int main()
 {
 	cout << "EX01\n" << endl;
@@ -23,9 +32,11 @@ int main()
 	cout << "Answer: Control Unit\n" << endl;
 
 	cout << "B) When a program runs on a computer, it is stored in __________." << endl;
+	//PT: in main memory. -2
 	cout << "Answer: on a disk\n" << endl;
 
 	cout << "C) When a program is not running, it is stored ___________." << endl;
+	//PT: on disk: -2
 	cout << "Answer: in main memory\n" << endl;
 
 	cout << "D) A bit is ___________." << endl;
@@ -38,6 +49,7 @@ int main()
 	cout << "Answer: 8\n" << endl;
 
 	cout << "G) An operating system _____________." << endl;
+	//PT: allocates resources ...  -2
 	cout << "Answer: all of the above\n" << endl; //This answer refers to that all of the possible answers are correct
 	
 	cout << "H) Application software _____________." << endl;
