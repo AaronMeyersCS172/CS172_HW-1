@@ -133,5 +133,6 @@ int add(int x, int y, int sum)
 
 	cout << "The sum of " << x << " and " << y << " is " << (x + y) << "." << endl; //Outputs teh numbers that were added togeher and the sum of the numbers
 
+//PT: returning three things doesn't really work here. Just return sum. -1
 	return x, y, sum;
 }
