@@ -30,6 +30,7 @@ void EX01_02()
 	}
 
 	//This will execute if x is equal to y
+	//PT: Don't really need the IF part.
 	else if(x == y)
 	{
 		cout << "X (" << x << ") is equal to Y (" << y << ") .\n" << endl;
@@ -137,6 +138,8 @@ void EX01_04()
 
 	int sum = 0; //Declares a variable that will act as the sum of the randomized variables
 	add(x, y, sum); //Calls the function that contians the code for adding different variables together
+	
+	//PT: Where is addOne? -3
 }
 
 //This function contians the code for the fifth part of the assignment
